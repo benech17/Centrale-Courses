@@ -1,3 +1,6 @@
 [submodule "ML-Robustness-Fairness"]
 	path = ML-Robustness-Fairness
 	url = https://github.com/benech17/ML-Robustness-Fairness
+[submodule "optimisation-SDIA"]
+	path = optimisation-SDIA
+	url = https://github.com/benech17/optimisation-SDIA
