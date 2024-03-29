@@ -19,3 +19,9 @@
 [submodule "SecInfo-SDIA"]
 	path = SecInfo-SDIA
 	url = https://github.com/benech17/SecInfo-SDIA
+[submodule "POO-SDIA"]
+	path = POO-SDIA
+	url = https://github.com/benech17/POO-SDIA
+[submodule "python_sdia_BENICHOU_BONNEFOY"]
+	path = python_sdia_BENICHOU_BONNEFOY
+	url = https://github.com/benech17/python_sdia_BENICHOU_BONNEFOY
