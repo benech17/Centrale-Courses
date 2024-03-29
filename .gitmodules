@@ -4,3 +4,18 @@
 [submodule "optimisation-SDIA"]
 	path = optimisation-SDIA
 	url = https://github.com/benech17/optimisation-SDIA
+[submodule "ML-SDIA"]
+	path = ML-SDIA
+	url = https://github.com/benech17/ML-SDIA
+[submodule "Markov-Chains-SDIA"]
+	path = Markov-Chains-SDIA
+	url = https://github.com/benech17/Markov-Chains-SDIA
+[submodule "Estimation-SDIA"]
+	path = Estimation-SDIA
+	url = https://github.com/benech17/Estimation-SDIA
+[submodule "Reinforcement-Learning-SDIA"]
+	path = Reinforcement-Learning-SDIA
+	url = https://github.com/benech17/Reinforcement-Learning-SDIA
+[submodule "SecInfo-SDIA"]
+	path = SecInfo-SDIA
+	url = https://github.com/benech17/SecInfo-SDIA
